@@ -1,0 +1,3 @@
+
+The current largest known prime is printed, using this program which uses the gmp large number library to construct it before printing.   
+The largest known prime is (2**136279841) -1 
